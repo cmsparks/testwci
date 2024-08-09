@@ -13,6 +13,6 @@
 
 export default {
 	async fetch(request, env, ctx): Promise<Response> {
-		return new Response('Hellasdkfaksdklflko Wasdforld5!');
+		return new Response('Hellasdkfakksdklflko Wasdforld5!');
 	},
 } satisfies ExportedHandler<Env>;

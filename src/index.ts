@@ -13,6 +13,6 @@
 
 export default {
 	async fetch(request, env, ctx): Promise<Response> {
-		return new Response('HelaskalkkljhkjdfkljlallkkljlkjalkkjlkjkjjaasdsdjfaaasdskkASjjjkljkj	a;njlkjadsfasdkkljaklkljlkjlasdfjkjkkkjaaaaasdfdjlklasdfjklasdfkjklalksjtest buiklddfhkkasljlkjjkldkfakksdklflko Wasdforld5!');
+		return new Response('HelaskalkkljhkjdfkljlallkkljlkjalkkjalkjkjjaasdsdjfaaasdskkASjjjkljkj	a;njlkjadsfasdkkljaklkljlkjlasdfjkjkkkjaaaaasdfdjlklasdfjklasdfkjklalksjtest buiklddfhkkasljlkjjkldkfakksdklflko Wasdforld5!');
 	}
 } satisfies ExportedHandler<Env>;
